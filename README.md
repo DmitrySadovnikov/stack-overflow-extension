@@ -1,2 +1,2 @@
-# stack-overflow-extension
+# instant-stack-overflow
 chrome extension

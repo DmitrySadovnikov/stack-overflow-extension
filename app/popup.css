@@ -1,0 +1,26 @@
+.instant-stack-overflow .popup-menu {
+  text-align: center;
+  padding: 16px;
+}
+
+.instant-stack-overflow .popup-menu p, .instant-stack-overflow .popup-menu #feedback {
+  background: linear-gradient(to right, #02B1FF 0%, #7833F1 50%, #BA2ACC 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.instant-stack-overflow .popup-menu #feedback {
+  margin-top: 8px;
+  display: block;
+}
+
+.instant-stack-overflow .popup-menu #buy-button {
+  height: 36px;
+  width: 160px;
+  color: white;
+  border: none;
+  outline: none;
+  background-color: #BA2ACC;
+  background-image: linear-gradient(to right, #02B1FF 0%, #7833F1 50%, #BA2ACC 100%);
+  cursor: pointer;
+}

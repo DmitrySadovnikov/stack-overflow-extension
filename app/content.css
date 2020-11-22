@@ -1,0 +1,25 @@
+.instant-stack-overflow .search-result {
+  border: 1px solid #dfe1e5;
+  border-radius: 8px;
+  padding: 0 16px;
+  margin-bottom: 20px;
+  max-height: 256px;
+  overflow: auto;
+}
+
+.instant-stack-overflow .search-result ul, .instant-stack-overflow .search-result ol {
+  margin-left: 20px;
+}
+
+.instant-stack-overflow .search-result li {
+  margin-bottom: 4px;
+}
+
+.instant-stack-overflow .search-result pre {
+  background-color: #f6f6f6;
+  border-radius: 5px;
+  padding: 12px;
+  color: #2f3337;
+  line-height: 1.30769231;
+  overflow: auto;
+}
